@@ -2,5 +2,5 @@
 #fffffuck
 ## ffffuck
 ###fffuck
-####ffuck
-#####fuck
+*####ffuck
+*#####fuck
